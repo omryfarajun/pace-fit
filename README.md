@@ -1,2 +1,2 @@
 # pace-fit
-Pace.fit BLE Bluetooth Repository
+Pace.fit BLE Bluetooth Device side Fw
